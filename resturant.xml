@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<resturant>
+	<first_dish>
+		<dish name = "humus">
+			<price>20</price>
+		</dish>
+		<dish name = "carpacio">
+			<price>35</price>
+		</dish>
+	</first_dish>
+	<main_dish>
+		<dish name = "kaba">
+			<price>45</price>
+		</dish>
+	</main_dish>
+	<desserts>
+		<dish name = "chocolate cake">
+			<price>30</price>
+		</dish>
+	</desserts>		
+</resturant>
